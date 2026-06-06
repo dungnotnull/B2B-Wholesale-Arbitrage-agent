@@ -1,0 +1,16 @@
+# Backend dependencies
+fastapi
+uvicorn
+sqlalchemy
+pydantic-settings
+playwright
+google-cloud-vision
+openai
+anthropic
+torch
+transformers
+pillow
+cryptography
+celery
+redis
+python-dotenv
